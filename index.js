@@ -1,5 +1,5 @@
 const nama = "jefri nichole";
-let data = "kang nyabu";
-data = "napi";
+let hobi = "kang nyabu";
+hobi = "mengepel";
 
-console.log(`dia ${nama} dan dia seorang ${data}`);
+console.log(`dia ${nama} dan dia sedang ${hobi}`);
